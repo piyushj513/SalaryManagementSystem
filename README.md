@@ -6,7 +6,7 @@ Salary Management System is an application to maintain your company's employee r
 
 It is built with modern technologies Php 7.3 Bootstrap 4,XAMPP Stack,Javascript,etc.
 
-Login - Main login page for PMS
+Login - Main login page for SMS
 Home  - The main Dashboard page
 Payrolls - Manage payroll details
 Accounts - Manage payroll details
@@ -52,7 +52,7 @@ Select Go option and the tables will be imported to the database .
 
 Now Navigate to http://localhost/Salary_Management_System/
 
-Now the PMS Landing Page is displayed.
+Now the SMS Landing Page is displayed.
 Login with user.id ,password .
 
 Now you can add and Manage :
